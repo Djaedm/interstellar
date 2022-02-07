@@ -2,7 +2,7 @@
 
 Le soleil est l'étoile au centre du système solaire 
 
-![Icône du soleil](soleil.png)
+![Icône du soleil](soleil.jpg)
 
 ## Caractéristiques 
 
